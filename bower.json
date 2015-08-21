@@ -1,0 +1,34 @@
+{
+  "name": "bpg-banner-caps",
+  "description": "BPG Banner Caps Web Font",
+  "main": [
+    "css/bpg-banner-caps.css",
+    "css/bpg-banner-caps.min.css",
+    "css/bpg-banner-caps.ie.css",
+    "css/bpg-banner-caps.ie.min.css",
+    "css/bpg-banner-caps.legacy.css",
+    "css/bpg-banner-caps.legacy.min.css",
+    "fonts/bpg-banner-caps-webfont.ttf",
+    "fonts/bpg-banner-caps-webfont.woff",
+    "fonts/bpg-banner-caps-webfont.woff2",
+    "fonts/bpg-banner-caps-webfont.eot",
+    "fonts/bpg-banner-caps-webfont.svg"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/web-fonts/bpg-banner-caps",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/bpg-banner-caps.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
