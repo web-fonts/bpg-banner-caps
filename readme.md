@@ -1,5 +1,11 @@
 # BPG Banner Caps
 
+![Bower](https://img.shields.io/bower/v/bpg-banner-caps.svg)
+![Bower](https://img.shields.io/bower/l/bpg-banner-caps.svg)
+![Author](https://img.shields.io/badge/Font_Author-Besarion_Gugushvili-blue.svg)
+![IE](https://img.shields.io/badge/IE_Support-6+-brightgreen.svg)
+![Files](https://img.shields.io/badge/Font_Files-.ttf,_.eot,_.svg,_.woff,_.woff2-brightgreen.svg)
+
 BPG Banner Caps Web Font Package.
 
 ## Installation

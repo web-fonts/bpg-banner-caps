@@ -5,5 +5,5 @@
          url('../fonts/bpg-banner-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
          url('../fonts/bpg-banner-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
          url('../fonts/bpg-banner-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/bpg-banner-caps-webfont.svg#svgFontFix') format('svg'); /* Legacy iOS */
+         url('../fonts/bpg-banner-caps-webfont.svg#bpg_banner_capsregular') format('svg'); /* Legacy iOS */
 }
